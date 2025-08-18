@@ -3,6 +3,8 @@ Manufacturing Downtime Analysis Project
 📊 Project Overview
 
 This project analyzes manufacturing downtime data to identify patterns, predict future downtime, and optimize batch production scheduling. Using Power BI for data preprocessing, analysis, and visualization, we deliver actionable insights to reduce operational inefficiencies and improve production planning.
+
+
 🎯 Business Objectives
 
 Minimize Downtime: Identify root causes and patterns in manufacturing downtime
@@ -33,7 +35,9 @@ manufacturing-downtime-analysis/
 Manufacturing Downtime Analysis Project
 📊 Project Overview
 This project analyzes manufacturing downtime data to identify patterns, predict future downtime, and optimize batch production scheduling. Using Power BI for data preprocessing, analysis, and visualization, we deliver actionable insights to reduce operational inefficiencies and improve production planning.
+
 🎯 Business Objectives
+
 
 Minimize Downtime: Identify root causes and patterns in manufacturing downtime
 Predict Future Issues: Forecast downtime for the next day of operation
